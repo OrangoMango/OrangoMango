@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-**Website**: https://orangomango.github.io
+**Website**: https://orangomango.github.io <br />
+**Discord**: OrangoMango#0973
 
 I make videos of programming, check out my channel: https://www.youtube.com/channel/UCrx20bdxcCQhcmL3x0Rqrmw
 
