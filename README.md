@@ -11,5 +11,5 @@ I make videos of programming, check out my channel: https://www.youtube.com/chan
 ⭐ Twitter ➡️ @orango_mango
 
 ## My stats
-[![stats](https://github-readme-stats.vercel.app/api?username=orangomango)](https://orangomango.github.io)
+[![stats](https://github-readme-stats.vercel.app/api?username=orangomango&theme=dark&show_icons=true&count_private=true)](https://orangomango.github.io)
 
