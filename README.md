@@ -9,3 +9,7 @@ I make videos of programming, check out my channel: https://www.youtube.com/chan
 ⭐ Scratch ➡️ https://scratch.mit.edu/users/CACOorango <br />
 ⭐ SoloLearn ➡️ https://www.sololearn.com/Profile/18062044 <br />
 ⭐ Twitter ➡️ @orango_mango
+
+## My stats
+[![stats](https://github-readme-stats.vercel.app/api?username=orangomango)](https://orangomango.github.io)
+
