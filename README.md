@@ -10,9 +10,9 @@ I'm a Java developer. I make games and other simple apps in Java and JavaFX.
 I make videos of programming, check out my channel: https://www.youtube.com/@OrangoMango
 
 ## My stats
-![stats](https://github-readme-stats.vercel.app/api?username=OrangoMango&count_private=true&show_icons=true&theme=merko)
-![langs](https://github-readme-stats.vercel.app/api/top-langs?username=OrangoMango&hide=html&layout=compact&theme=merko)
+![stats](https://github-readme-stats.vercel.app/api?username=OrangoMango&count_private=true&show_icons=true&theme=vue)
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=OrangoMango&hide=html&layout=compact&theme=vue)
 
 ## Top 2 projects
-![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=merko)
-![Food](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=FoodDice&show_owner=true&theme=merko)
+![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=vue)
+![Food](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=FoodDice&show_owner=true&theme=vue)
