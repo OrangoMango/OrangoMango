@@ -1,16 +1,18 @@
 ### Hi there 👋
 
+I'm a Java developer. I make games and other simple apps in Java and JavaFX.
+
 **Website**: https://orangomango.github.io <br />
 **Itch.io**: https://orangomango.itch.io <br />
-**Discord**: OrangoMango#0973
+**Discord**: OrangoMango#0973 <br />
+**Twitter**: @orango_mango
 
-I make videos of programming, check out my channel: https://www.youtube.com/channel/UCrx20bdxcCQhcmL3x0Rqrmw
-
-## Follow me on:
-⭐ Scratch ➡️ https://scratch.mit.edu/users/CACOorango <br />
-⭐ SoloLearn ➡️ https://www.sololearn.com/Profile/18062044 <br />
-⭐ Twitter ➡️ @orango_mango
+I make videos of programming, check out my channel: https://www.youtube.com/@OrangoMango
 
 ## My stats
-[![stats](https://github-readme-stats.vercel.app/api?username=orangomango&theme=dark&show_icons=true&count_private=true)](https://orangomango.github.io)
+![stats](https://github-readme-stats.vercel.app/api?username=OrangoMango&count_private=true&show_icons=true&theme=merko)
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=OrangoMango&hide=html&layout=compact&theme=merko)
 
+## Top 2 projects
+![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=merko)
+![Food](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=FoodDice&show_owner=true&theme=merko)
