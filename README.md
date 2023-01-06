@@ -11,7 +11,7 @@ I make videos of programming, check out my channel: https://www.youtube.com/@Ora
 
 ## My stats
 ![stats](https://github-readme-stats.vercel.app/api?username=OrangoMango&count_private=true&show_icons=true&theme=vue)
-![langs](https://github-readme-stats.vercel.app/api/top-langs?username=OrangoMango&hide=html&layout=compact&theme=vue)
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=OrangoMango&layout=compact&theme=vue)
 
 ## Top 2 projects
 ![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=vue)
