@@ -14,5 +14,5 @@ I make videos of programming, check out my channel: https://www.youtube.com/@Ora
 ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=OrangoMango&layout=compact&theme=vue)
 
 ## Top 2 projects
-![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=vue)
-![Food](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=FoodDice&show_owner=true&theme=vue)
+[![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=vue)](https://github.com/OrangoMango/RubikCube)
+[![Food](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=FoodDice&show_owner=true&theme=vue)](https://github.com/OrangoMango/FoodDice)
