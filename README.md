@@ -15,5 +15,5 @@ I make videos of programming, check out my channel: https://www.youtube.com/@Ora
 [![GitHub Streak](https://streak-stats.demolab.com?user=OrangoMango&theme=maroongold)](https://git.io/streak-stats)
 
 ## Top 2 projects
-[![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=vue)](https://github.com/OrangoMango/RubikCube)  
+[![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=vue)](https://github.com/OrangoMango/RubikCube)
 [![Food](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=FoodDice&show_owner=true&theme=vue)](https://github.com/OrangoMango/FoodDice)
