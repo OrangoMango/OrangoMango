@@ -7,7 +7,7 @@ I'm a Java developer. I make games and other simple apps in Java and JavaFX.
 **Discord**: OrangoMango#0973 <br />
 **Twitter**: @orango_mango
 
-I make videos of programming, check out my channel: https://www.youtube.com/@OrangoMango
+I make coding videos, check out my channel: https://www.youtube.com/@OrangoMango
 
 ## My stats
 ![stats](https://github-readme-stats.vercel.app/api?username=OrangoMango&count_private=true&show_icons=true&theme=vue)
