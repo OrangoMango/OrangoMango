@@ -16,5 +16,6 @@ I make coding videos, check out my channel: https://www.youtube.com/@OrangoMango
 
 ## Top 3 projects
 [![Rendering3D](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=Rendering3D&show_owner=true&theme=vue)](https://github.com/OrangoMango/Rendering3D)
-[![Rubik](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=RubikCube&show_owner=true&theme=vue)](https://github.com/OrangoMango/RubikCube)
-[![Food](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=FoodDice&show_owner=true&theme=vue)](https://github.com/OrangoMango/FoodDice)
+[![LogicSimulator](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=LogicSimulator&show_owner=true&theme=vue)](https://github.com/OrangoMango/LogicSimulator)
+[![Chess](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=Chess&show_owner=true&theme=vue)](https://github.com/OrangoMango/Chess)
+[![Food Dice](https://github-readme-stats.vercel.app/api/pin?username=OrangoMango&repo=FoodDice&show_owner=true&theme=vue)](https://github.com/OrangoMango/FoodDice)
