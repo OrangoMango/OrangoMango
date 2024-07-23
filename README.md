@@ -7,8 +7,10 @@ I'm a Java developer. I make games and other simple apps in Java and JavaFX.
 **Discord**: orango_mango <br />
 **Twitter**: @orango_mango
 
+**About me**: https://foojay.io/today/interview-with-paul-kocian-aka-orango_mango/
+
 ## My projects 2020-2024
-📹 Click on the image to play video <br />
+📹 Click on the image to play video <br /><br />
 [![cover](https://github.com/user-attachments/assets/054ca596-598a-4253-8c3a-c8a8a3ffd506)](https://youtu.be/npwdeEwLjpY?si=R-lpS8JA6fAh6teM)
 
 I make coding videos, check out my channel: https://www.youtube.com/@OrangoMango
