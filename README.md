@@ -11,7 +11,8 @@ I'm a Java developer. I make games and other simple apps in Java and JavaFX.
 
 ## My projects 2020-2024
 📹 Click on the image to play video <br /><br />
-[![cover](https://github.com/user-attachments/assets/054ca596-598a-4253-8c3a-c8a8a3ffd506)](https://youtu.be/npwdeEwLjpY?si=R-lpS8JA6fAh6teM)
+[![cover](https://github.com/user-attachments/assets/7d99ea3d-73f8-43ee-a88b-e6b927abcf68)
+](https://youtu.be/npwdeEwLjpY?si=R-lpS8JA6fAh6teM)
 
 I make coding videos, check out my channel: https://www.youtube.com/@OrangoMango
 
