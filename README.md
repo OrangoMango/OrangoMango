@@ -2,7 +2,7 @@
 
 I'm a Java developer. I make games and other simple apps in Java and JavaFX.
 
-**Website**: https://orangomango.github.io <br />
+**Website**: https://orangomango.org <br />
 **Itch.io (my games)**: https://orangomango.itch.io <br />
 **Discord**: orango_mango <br />
 **Twitter**: @orango_mango
