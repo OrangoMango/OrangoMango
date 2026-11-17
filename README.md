@@ -1,21 +1,60 @@
-### Hi there, I'm Paul Kocian 👋
+# Hi there, I'm Paul Kocian 👋
 
-I'm a Java developer. I make games and other simple apps in Java and JavaFX.
+I'm a **Java developer**, I enjoy building 2D/3D games, game engines, and desktop/mobile applications using **Java** and **JavaFX**.
 
-**Website**: https://orangomango.org <br />
-**Itch.io (my games)**: https://orangomango.itch.io <br />
-**Discord**: orango_mango <br />
-**Twitter**: @orango_mango
+You can find everything about me on my website: portfolio, applications, games, adventure drone shots and more :)
 
-**About me**: https://foojay.io/today/interview-with-paul-kocian-aka-orango_mango/
+[![Website](https://img.shields.io/badge/Website-orangomango.org-2f80ed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orangomango.org)
+[![Itch.io](https://img.shields.io/badge/Itch.io-My%20Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://orangomango.itch.io)
 
-## My projects 2020-2024
-📹 Click on the image to play video <br /><br />
-[![cover](https://github.com/user-attachments/assets/7d99ea3d-73f8-43ee-a88b-e6b927abcf68)
-](https://youtu.be/npwdeEwLjpY?si=R-lpS8JA6fAh6teM)
+📰 [Foojay.io Interview](https://foojay.io/today/interview-with-paul-kocian-aka-orango_mango/) • Discord: `orango_mango`
 
-I make coding videos, check out my channel: https://www.youtube.com/@OrangoMango
+---
 
-## My stats
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=OrangoMango&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=OrangoMango&theme=vue)](https://git.io/streak-stats)  
+### ✨ New Release
+
+<table>
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.orangomango.snake">
+        <img src="https://orangomango.org/assets/images/snake_release.png" alt="MangoSnake Android Release" width="100%" />
+      </a>
+    </td>
+    <td width="58%" valign="middle">
+      <sub>🤖 <b>ANDROID RELEASE</b></sub>
+      <h2>🐍 MangoSnake</h2>
+      <p>The classic snake game built from scratch and optimized for mobile. Unlock custom unique skins, complete achievements and climb the global rankings. Now available for download on Google Play!</p>
+      <p>
+        <a href="https://id.orangomango.org/games/mangosnake/index.php">
+          <img src="https://img.shields.io/badge/Free%20Download-Google%20Play-FFA500?style=for-the-badge&logo=google-play&logoColor=white" alt="Free Download on Google Play" />
+        </a>
+        <a href="[https://orangomango.org](https://id.orangomango.org/leaderboard/game.php?appid=2)">
+          <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Leaderboards-View-2d3748?style=for-the-badge" alt="Leaderboards" />
+        </a>
+      </p>
+      <sub> Global Rankings &nbsp;•&nbsp; 50+ Skins &nbsp;•&nbsp; Cloud Sync &nbsp;•&nbsp; 4 Game Modes</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-2f80ed?style=flat-square&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/OrangoMango">
+    <img height="140em" src="https://helio-github-stats.vercel.app/api?username=OrangoMango&custom_title=GitHub+Stats&theme=tokyonight&hide_border=true&border_radius=6&show_icons=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/OrangoMango">
+    <img height="140em" src="https://streak-stats.demolab.com?user=OrangoMango&theme=tokyonight&hide_border=true&border_radius=6" />
+  </a>
+</p>
