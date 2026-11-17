@@ -7,7 +7,7 @@ You can find everything about me on my website: portfolio, applications, games, 
 [![Website](https://img.shields.io/badge/Website-orangomango.org-2f80ed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orangomango.org)
 [![Itch.io](https://img.shields.io/badge/Itch.io-My%20Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://orangomango.itch.io)
 
-📰 [Foojay.io Interview](https://foojay.io/today/interview-with-paul-kocian-aka-orango_mango/) • Discord: `orango_mango`
+📰 [Foojay.io Interview](https://foojay.io/today/interview-with-paul-kocian-aka-orango_mango/)
 
 ---
 
